@@ -28,16 +28,14 @@ Visit the portfolio: [https://adityabhatt3010.github.io](https://adityabhatt3010
 
 ## 📂 Structure
 
-📁 root <br/>
-    ├── index.html # Main page <br/>
-    ├── style.css # Styling and themes <br/>
-    ├── script.js # Interactivity and animations <br/>
-    ├── assets/ # Images <br/>
-    └── README.md # You are here <br/>
-
-yaml
-Copy
-Edit
+```
+📁 root
+    ├── index.html # Main page
+    ├── style.css # Styling and themes
+    ├── script.js # Interactivity and animations
+    ├── assets/ # Images
+    └── README.md # You are here
+```
 
 ---
 
@@ -70,12 +68,6 @@ This site is deployed using [GitHub Pages](https://pages.github.com/), a free an
 - 📝 [Medium](https://medium.com/@info.adityabhatt3010)
 - 🛡️ [TryHackMe](https://tryhackme.com/p/info.adityabhatt)
 - 🎖️ [Credly](https://www.credly.com/users/aditya-bhatt3010)
-
----
-
-## 📢 License
-
-This project is open-source and free to use for learning purposes. Feel free to fork and customize it!
 
 ---
 
