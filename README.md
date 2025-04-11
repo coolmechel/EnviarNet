@@ -28,12 +28,12 @@ Visit the portfolio: [https://adityabhatt3010.github.io](https://adityabhatt3010
 
 ## 📂 Structure
 
-📁 root
-    ├── index.html # Main page
-    ├── style.css # Styling and themes
-    ├── script.js # Interactivity and animations
-    ├── assets/ # Images
-    └── README.md # You are here
+📁 root <br/>
+    ├── index.html # Main page <br/>
+    ├── style.css # Styling and themes <br/>
+    ├── script.js # Interactivity and animations <br/>
+    ├── assets/ # Images <br/>
+    └── README.md # You are here <br/>
 
 yaml
 Copy
