@@ -2,7 +2,7 @@
 
 Welcome to EnviarNet website, hosted via GitHub Pages!
 
-This website showcases our expertise in Cybersecurity, technical skills, certifications, Partnership, achievements, major projects, and published articles in the field of **Cybersecurity**, **VAPT**, **Cryptography**, **Security Awareness Training**, and **Cloud Security**.
+This website showcases our expertise in Cybersecurity, technical skills, certifications, Partnership, achievements, and published articles in the field of **Cybersecurity**, **Security Auditing and Compliance**, **Endpoint Security**, **Security Awareness Training**, and **Cloud Security**.
 
 > 🔒 AI Powered Platforms | SOC | Managed Security Solution Provider | Cybersecurity Awareness
 
@@ -10,7 +10,7 @@ This website showcases our expertise in Cybersecurity, technical skills, certifi
 
 ## 🚀 Live Website
 
-Visit the portfolio: [https://adityabhatt3010.github.io](https://adityabhatt3010.github.io)
+Visit the portfolio: [https://coolmechel.github.io](https://coolmechel.github.io)
 
 ---
 
@@ -38,7 +38,7 @@ Visit the portfolio: [https://adityabhatt3010.github.io](https://adityabhatt3010
 ```
 
 ---
-
+<!--
 ## 🧠 Sections Included
 
 - 👨‍💻 About Me
@@ -53,7 +53,7 @@ Visit the portfolio: [https://adityabhatt3010.github.io](https://adityabhatt3010
 - 📞 Contact Form
 
 ---
-
+-->
 ## 🖥️ Hosting via GitHub Pages
 
 This site is deployed using [GitHub Pages](https://pages.github.com/), a free and reliable method for web hosting directly from your GitHub repository.
